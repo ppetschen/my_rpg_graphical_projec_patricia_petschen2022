@@ -1,4 +1,4 @@
-# my_rpg_graphical_projec_patricia_petschen2022
+# my_rpg_graphical_project_patricia_petschen2022
 
 Activity: MyRPG
 # Mark: 84
