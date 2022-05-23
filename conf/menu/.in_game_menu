@@ -1,0 +1,5 @@
+Game menu:rsrc/sprites/true_pergamino.png:300 30:980 1060:handle_null:100:530 90:rsrc/fonts/SquareCaps.ttf
+Return:rsrc/sprites/but.png:550 260:500 100:handle_play:60:710 260:rsrc/fonts/Augusta.ttf
+Settings:rsrc/sprites/but.png:550 370:500 100:handle_settings:60:720 370:rsrc/fonts/Augusta.ttf
+Main menu:rsrc/sprites/but.png:550 485:500 100:handle_main_menu:55:675 490:rsrc/fonts/Augusta.ttf
+Quit:rsrc/sprites/but.png:550 600:500 100:handle_quit:60:740 605:rsrc/fonts/Augusta.ttf

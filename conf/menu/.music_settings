@@ -1,0 +1,4 @@
+Music:rsrc/sprites/true_pergamino.png:300 30:980 1060:handle_null:100:650 90:rsrc/fonts/SquareCaps.ttf
+Back:rsrc/sprites/but.png:550 260:500 100:handle_prev:60:730 265:rsrc/fonts/Augusta.ttf
+On:rsrc/sprites/but.png:550 370:500 100:handle_on:60:760 374:rsrc/fonts/Augusta.ttf
+Off:rsrc/sprites/but.png:550 485:500 100:handle_off:60:760 494:rsrc/fonts/Augusta.ttf

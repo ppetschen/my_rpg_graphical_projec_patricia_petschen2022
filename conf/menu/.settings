@@ -1,0 +1,4 @@
+Settings:rsrc/sprites/true_pergamino.png:300 30:980 1060:handle_null:100:560 90:rsrc/fonts/SquareCaps.ttf
+Back:rsrc/sprites/but.png:550 260:500 100:handle_prev:60:730 265:rsrc/fonts/Augusta.ttf
+Music:rsrc/sprites/but.png:550 370:500 100:handle_music:60:730 375:rsrc/fonts/Augusta.ttf
+Sounds:rsrc/sprites/but.png:550 485:500 100:handle_sounds:60:710 490:rsrc/fonts/Augusta.ttf
